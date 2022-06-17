@@ -1,1 +1,2 @@
 Initial project phase
+Initial commit from local branch
