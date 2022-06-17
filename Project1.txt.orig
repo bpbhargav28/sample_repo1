@@ -1,11 +1,14 @@
 Initial project phase
 Initial commit from local branch
 Initial commit from local to remote
+<<<<<<< HEAD
 Changes from master1
 Changes from master2
 Changes from master3
+=======
 Changes from Master
 Changes from branch App_1.1
 Change1
 Change2
 Change3
+>>>>>>> App_1.1
