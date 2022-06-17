@@ -1,2 +1,3 @@
 Initial project phase
 Initial commit from local branch
+Initial commit from local to remote
